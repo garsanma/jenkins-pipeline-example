@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
 
-  <build>
+ <!-- <build>
     <plugins>
       <plugin>
         <groupId>org.owasp</groupId>
@@ -49,7 +49,7 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
+  </build>-->
 
 
 </project>
